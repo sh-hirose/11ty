@@ -113,6 +113,13 @@ pre {
   background-color: #902f2f;
 }
 
+/* Wrapper */
+#wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40rem;
+}
+
 /* Header */
 .home {
   padding: 0 1rem;
